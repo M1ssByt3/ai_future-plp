@@ -1,3 +1,14 @@
+# Task 3: Ethics in Personalized Medicine
+
+**Dataset: Cancer Genomic Atlas.*
+
+# Task:
+
+* Identify potential biases in using AI to recommend treatments (e.g., underrepresentation of ethnic groups).
+
+* Suggest fairness strategies (e.g., diverse training data).
+---
+
 # Ethical Analysis
 
 ***Ethical Analysis: Using TCGA Data to Assess AI Bias and Fairness in Personalized Medicine***
